@@ -1,0 +1,8 @@
+#bodycontainer {
+  height: calc(100% - 100px);
+  align-content: center;
+}
+
+h1 {
+  color: #ebc360;
+}

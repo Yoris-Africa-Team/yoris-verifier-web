@@ -1,0 +1,7 @@
+.pinktext {
+  color: var(--lightBlueColor);
+}
+
+#bodycont {
+  height: 100vh;
+}
